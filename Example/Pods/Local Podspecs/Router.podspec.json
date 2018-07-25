@@ -1,0 +1,22 @@
+{
+  "name": "Router",
+  "version": "0.1.0",
+  "summary": "A short description of Router.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/barteljan/Router",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "barteljan": "jan.bartel@atino.net"
+  },
+  "source": {
+    "git": "https://github.com/barteljan/Router.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Router/Classes/**/*"
+}
